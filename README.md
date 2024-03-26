@@ -64,9 +64,7 @@ My application’s folder structure must follow the Model-View-Controller paradi
 
 I’ll also need the [dotenv package](https://www.npmjs.com/package/dotenv) to use environment variables, the [bcrypt package](https://www.npmjs.com/package/bcrypt) to hash passwords, and the [express-session](https://www.npmjs.com/package/express-session) and [connect-session-sequelize](https://www.npmjs.com/package/connect-session-sequelize) packages to add authentication.
 
-## Review
-
-You are required to submit BOTH of the following for review:
+## Notes
 
 - [The URL of the functional, deployed application.](https://badrulborhanudin-mvc-techblog-81a6fe3bb9cd.herokuapp.com/)
 
