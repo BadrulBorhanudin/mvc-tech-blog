@@ -68,6 +68,6 @@ I’ll also need the [dotenv package](https://www.npmjs.com/package/dotenv) to u
 
 You are required to submit BOTH of the following for review:
 
-- [The URL of the functional, deployed application.]()
+- [The URL of the functional, deployed application.](https://badrulborhanudin-mvc-techblog-81a6fe3bb9cd.herokuapp.com/)
 
 - [The URL of the GitHub repository, with a unique name and a readme describing the project.](https://github.com/BadrulBorhanudin/mvc-tech-blog)
